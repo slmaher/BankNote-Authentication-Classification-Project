@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains a classification project to detect forged banknotes using the provided `BankNote_Authentication.csv` dataset. The analysis and model training are implemented in `code.ipynb` (Jupyter Notebook).
+This repository contains a Ml classification project to detect forged banknotes using the provided `BankNote_Authentication.csv` dataset. The analysis and model training are implemented in `code.ipynb` (Jupyter Notebook).
 
 ## Files
 
@@ -55,5 +55,3 @@ jupyter notebook
 ## Author
 
 Project created for a Bank Note Authentication classification task.
-
-.
